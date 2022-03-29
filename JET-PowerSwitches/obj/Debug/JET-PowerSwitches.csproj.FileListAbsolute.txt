@@ -1,0 +1,16 @@
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\JET-PowerSwitches.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\JET-PowerSwitches.pdb
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\Assembly-CSharp.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\Comfort.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\Comfort.Unity.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\NLog.JET.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\UnityEngine.CoreModule.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\UnityEngine.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\UnityEngine.IMGUIModule.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\UnityEngine.InputLegacyModule.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Debug\UnityEngine.InputModule.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\obj\Debug\JET-PowerSwitches.csproj.AssemblyReference.cache
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\obj\Debug\JET-PowerSwitches.csproj.CoreCompileInputs.cache
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\obj\Debug\JET-PowerSwitches.csproj.CopyComplete
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\obj\Debug\JET-PowerSwitches.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\obj\Debug\JET-PowerSwitches.pdb

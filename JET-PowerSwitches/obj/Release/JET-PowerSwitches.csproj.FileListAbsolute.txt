@@ -1,0 +1,15 @@
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\JET-PowerSwitches.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\JET-PowerSwitches.pdb
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\Assembly-CSharp.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\Comfort.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\Comfort.Unity.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\NLog.JET.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\UnityEngine.CoreModule.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\UnityEngine.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\UnityEngine.IMGUIModule.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\UnityEngine.InputLegacyModule.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\bin\Release\UnityEngine.InputModule.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\obj\Release\JET-PowerSwitches.csproj.CoreCompileInputs.cache
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\obj\Release\JET-PowerSwitches.csproj.CopyComplete
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\obj\Release\JET-PowerSwitches.dll
+R:\#Tarkov\#JET\JET-mod-PowerSwitches\JET-PowerSwitches\obj\Release\JET-PowerSwitches.pdb
